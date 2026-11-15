@@ -11,7 +11,7 @@ A web-based supplier selection application developed using Python and Streamlit.
 
 Access the deployed application here:
 
-[Insert your Streamlit application URL here]
+https://supplier-selection-ahp-naveedak.streamlit.app/
 
 ## Project Overview
 
