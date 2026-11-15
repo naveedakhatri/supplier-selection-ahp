@@ -1,6 +1,0 @@
-Criteria,Unit_Price,Quality_Score,Delivery_Time,On_Time_Delivery_Rate,Defect_Rate
-Unit_Price,1.0,0.3333333333333333,3.0,2.0,0.5
-Quality_Score,3.0,1.0,5.0,3.0,2.0
-Delivery_Time,0.3333333333333333,0.2,1.0,0.5,0.3333333333333333
-On_Time_Delivery_Rate,0.5,0.3333333333333333,2.0,1.0,0.5
-Defect_Rate,2.0,0.5,3.0,2.0,1.0
