@@ -51,7 +51,7 @@ Users can download these files directly from the repository and upload them to t
 
 ## How to Use the Application
 
-1. Open the [Live Application](INSERT_STREAMLIT_URL_HERE).
+1. Open the [Live Application](https://supplier-selection-ahp-naveedak.streamlit.app/).
 2. Download `supplier_data.csv` and `ahp_pairwise_matrix.csv` from this GitHub repository.
 3. Upload both CSV files using the two file upload fields.
 4. Review the uploaded supplier data.
