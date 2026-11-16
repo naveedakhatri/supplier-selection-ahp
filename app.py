@@ -27,9 +27,18 @@ st.markdown("""
 **Step 3:** Review the AHP weights and consistency result.  
 **Step 4:** View the supplier ranking.  
 **Step 5:** Apply your price and quality constraints.  
-**Step 6:** Get the recommended supplier.  
+**Step 6:** Get  the recommended supplier.  
 **Step 7:** Download the results.
 """)
+
+st.markdown("### Don't have sample CSV files?")
+
+st.info(
+    "You can download the sample CSV files from our "
+    "[GitHub repository](https://github.com/naveedakhatri/supplier-selection-ahp/)."
+    "\n\nDownload both supplier_data.csv and ahp_pairwise_matrix.csv "
+    "before using the application."
+)
 
 # Required columns for supplier data
 required_columns = [
